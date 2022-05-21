@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43A5FNctzCWniixVK2jxT0awoUeFmBfsoXOU4XQnXd1BPqQ50gAT4WaVFi9NRpr9jDDO/IOueOFNFVw6S92xkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\Inensia Coding Task 1\\Inensia Coding Task 1\\Inensia Coding Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
