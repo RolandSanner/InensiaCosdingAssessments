@@ -1,4 +1,4 @@
-# InensiaCosdingAssessments
+# Coding Assessments
 
 
 Task 1 – C#.
